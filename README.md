@@ -18,11 +18,6 @@ Based on
    - KBS 라디오 유인나의 볼륨을 높여요(3시간, wav, 16000khz, 3327개, 480.6MB)
    - Google Speech to Text API
    - Kakao Speech API
-
-3. 반려동물 훈련사 강형욱 목소리
-
-   - ETRI 한국어 인식 API
-
    
 
 ## Preprocessing
