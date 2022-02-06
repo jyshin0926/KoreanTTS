@@ -1,6 +1,6 @@
 # KoreanTTS
 
-Tacotron2 모델과 Vocoder모델(Griffinlim, Wavenet, WaveGan)을 결합하여 한국어  TTS를 구현하는 프로젝트입니다. 
+Tacotron 모델과 Vocoder모델(Griffinlim, Wavenet, WaveGan)을 결합하여 한국어  TTS를 구현하는 프로젝트입니다. 
 
 Based on
 
@@ -34,8 +34,8 @@ Based on
 
 ## Project 진행
 
-1. Tacotron2 + GriffinLim + Singlespeaker
-2. Tacotron2 + GriffinLim + Multispeaker(Deep Voice 2)
+1. Tacotron + GriffinLim + Singlespeaker
+2. Tacotron + GriffinLim + Multispeaker(Deep Voice 2)
 3. Tacotron2 + Melgan + Single Speaker
 4. Tacotron2 + Melgan + Multispeaker (Transfer learning)
 
