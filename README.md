@@ -14,7 +14,7 @@ Based on
 1. Koran Single Speaker Speech
    - 전문여자성우(12시간, wav, 44100khz, 12853개, 3GB)
 
-2. 배우 유인나 목소리
+2. 배우 유인나 음성
    - KBS 라디오 유인나의 볼륨을 높여요(3시간, wav, 16000khz, 3327개, 480.6MB)
    - Google Speech to Text API
    - Kakao Speech API
