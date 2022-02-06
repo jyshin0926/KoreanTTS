@@ -11,7 +11,7 @@ Based on
 
 ## Dataset
 
-1. Koran Single Speaker Speech
+1. Korean Single Speaker Speech
    - 전문여자성우(12시간, wav, 44100khz, 12853개, 3GB)
 
 2. 배우 유인나 음성
